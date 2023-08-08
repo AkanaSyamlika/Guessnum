@@ -1,0 +1,26 @@
+body{
+    background-image: url('jg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    
+    text-align: center;
+    font-size: large;
+    margin-top: 200px;
+   
+
+}
+.container p{
+    color:rgb(147, 61, 150);
+    font-size:xx-large;
+    
+}
+.container h2{
+    color: black;
+    font-size: xx-large;
+    margin-bottom: 50px;
+}
+#myimg{
+    height: 100px;
+}
